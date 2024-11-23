@@ -15,7 +15,7 @@
        <h1>My Cool Website</h1>
        <p>I think HTML is neat</p>
 
-       <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpokemondb.net%2Fpokedex%2Flucario&psig=AOvVaw3s4Tlr5pfPDTFQtwnBmSBh&ust=1732466024302000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLDnx4Hx8okDFQAAAAAdAAAAABAE"
+       <img src="https://images4.alphacoders.com/889/thumbbig-889823.webp"
 
        <bockquote> " I looked "</bockquote>
        <button onclick="changeQuote()">Change the quote</button>
